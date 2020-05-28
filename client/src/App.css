@@ -1,0 +1,88 @@
+.App-header {
+  background-color: #222;
+  height: 50px;
+  color:rgb(197, 194, 194);
+}
+
+.App-title {
+  font-size: 1.3em;
+
+}
+
+.App-title:hover{
+  color: ghostwhite;
+}
+.headerpic{
+  padding-left: 10px;
+  padding-top: 10px;
+  float: left;
+}
+.header1{
+  float: left;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+.header2{
+  float: left;
+  padding-left: 20px;
+  padding-top: 15px;
+}
+
+.header3{
+  float: right;
+  font-size: 1.1em;
+  padding-right: 15px;
+  padding-top: 16px; 
+}
+
+.header3:hover{
+  color: ghostwhite;
+}
+
+.searchrow{
+padding-top: 13px;
+}
+
+.simplesearch{
+  border-radius: 5px;
+}
+
+.advancesearch{
+  color:#0072c6 !important;
+  background-color: white !important;
+}
+
+.menuicon{
+  float: right;
+  padding-right: 15px;
+  padding-top: 8px;
+}
+
+.profilelogo{
+  float:left;
+  padding-right: 5px;
+}
+
+.bandlogo{
+  float: left;
+  width: 45px;
+  height: 28px;
+  padding-left: 15px;
+}
+
+
+.menu{
+  margin-top: 5px;
+  background-color: #f4f4f43b;
+  height:800px;
+  width: 315px;
+}
+.menunav{
+  margin-top: 0px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
